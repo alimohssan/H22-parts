@@ -1,2 +1,2 @@
 # H22-parts
-CAD project for as many H22 parts as possible.
+My name is Ali Mohssan. Currently im an engineering student at KTH Royal University in Stockholm. Im working on trying to CAD every possible part for H22 and H23 series engines. If anybody else wants to contribute to the project, keep in mind these files will be for the Honda community at large  and not for a specific group. You can consider this as an open source project. I mainly use FreeCAD because i run Linux on my computers but i use PTC Creo, OnShape and Solidworks from time to time through a university license.
